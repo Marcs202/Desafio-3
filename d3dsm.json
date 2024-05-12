@@ -1,0 +1,132 @@
+{
+    "recursos": [
+        {
+            "id": 1,
+            "titulo": "Beginning Programming For Dummies",
+            "descripcion": "Do you think the programmers who work at your office are magical wizards who hold special powers that manipulate your computer? Believe it or not, anyone can learn how to write programs, and it doesn't take a higher math and science education to start.",
+            "tipo": "Libro",
+            "enlace": "https://archive.org/details/beginningprogrammingfordummies",
+            "imagen": "https://m.media-amazon.com/images/I/81lEZsk5bZL._SY466_.jpg"
+        },
+        {
+            "id": 2,
+            "titulo": "Aprende Programación en C++",
+            "descripcion": "Serie de videos donde aprenderas a programar en c++ de la mano de una leyenda",
+            "tipo": "Videos",
+            "enlace": "https://www.youtube.com/watch?v=dJzLmjSJc2c&list=PLWtYZ2ejMVJlUu1rEHLC0i_oibctkl0Vh",
+            "imagen": "https://miro.medium.com/v2/resize:fit:1400/0*sZ1IzKNMKqOSbwHU.jpg"
+        },
+        {
+            "id": 3,
+            "titulo": "Web Coding & Development All-in-One For Dummies",
+            "descripcion": "With more high-paying web development jobs opening every day, people with coding and web/app building skills are having no problems finding employment. If you're a would-be developer looking to gain the know-how to build the interfaces, databases, and other features that run modern websites, web apps, and mobile apps, look no further.",
+            "tipo": "Libro",
+            "enlace": "https://compelite.nethouse.ru/static/doc/0000/0000/0204/204309.p6ls5x23m4.pdf",
+            "imagen": "https://m.media-amazon.com/images/I/81gcvKAAsjL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 4,
+            "titulo": "30-Days-Of-Python",
+            "descripcion": "In this challenge you will learn everything you need to be a python programmer and the whole concept of programming. In the end of the challenge you will get a 30DaysOfPython programming challenge certificate.",
+            "tipo": "Repositorio",
+            "enlace": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "imagen": "https://www.bitdegree.org/courses/storage/course-image/python-for-beginners.jpg"
+        },
+        {
+            "id": 5,
+            "titulo": "Networking For Dummies 10th Edition",
+            "descripcion": "Both beginning network administrators and home users have made previous editions of this book a top seller. Now fully updated, this edition shows you step by step how to set up and maintain a network and covers Windows 8 and Windows Server 2008 R2 SP1. ",
+            "tipo": "Libro",
+            "enlace": "https://archive.org/details/networkingfordum0000lowe",
+            "imagen": "https://media.wiley.com/product_data/coverImage300/82/11184740/1118474082.jpg"
+        },
+        {
+            "id": 6,
+            "titulo": "Tutorial: Get started with Amazon EC2 Linux instances",
+            "descripcion": "Use this tutorial to get started with Amazon Elastic Compute Cloud (Amazon EC2). You'll learn how to launch, connect to, and use a Linux instance. An instance is a virtual server in the AWS Cloud. With Amazon EC2, you can set up and configure the operating system and applications that run on your instance.",
+            "tipo": "Tutorial",
+            "enlace": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html",
+            "imagen": "https://i0.wp.com/cloudkatha.com/wp-content/uploads/2021/02/How-to-Create-EC2-Instance-in-AWS-Step-by-Step.png?fit=2240%2C1260&ssl=1"
+        },
+        {
+            "id": 7,
+            "titulo": "Hayabusa Documentation",
+            "descripcion": "Hayabusa is a Windows event log fast forensics timeline generator and threat hunting tool created by the Yamato Security group in Japan. Hayabusa means 'peregrine falcon' in Japanese and was chosen as peregrine falcons are the fastest animal in the world, great at hunting and highly trainable.",
+            "tipo": "Repositorio",
+            "enlace": "https://github.com/Yamato-Security/hayabusa",
+            "imagen": "https://raw.githubusercontent.com/Yamato-Security/hayabusa/main/logo.png"
+        },
+        {
+            "id": 8,
+            "titulo": "Chainsaw Documentation",
+            "descripcion": "Chainsaw provides a powerful ‘first-response’ capability to quickly identify threats within Windows forensic artefacts such as Event Logs and the MFT file. Chainsaw offers a generic and fast method of searching through event logs for keywords, and by identifying threats using built-in support for Sigma detection rules, and via custom Chainsaw detection rules.",
+            "tipo": "Repositorio",
+            "enlace": "https://github.com/WithSecureLabs/chainsaw",
+            "imagen": "https://raw.githubusercontent.com/WithSecureLabs/chainsaw/master/images/chainsaw.png"
+        },
+        {
+            "id": 9,
+            "titulo": "Firebase Realtime Database",
+            "descripcion": "Almacena y sincroniza datos con nuestra base de datos NoSQL alojada en la nube. Los datos se sincronizan con todos los clientes en tiempo real y se mantienen disponibles cuando la app no tiene conexión.",
+            "tipo": "Documentación",
+            "enlace": "https://firebase.google.com/docs/database?hl=es-419",
+            "imagen": "https://miro.medium.com/v2/resize:fit:1024/1*csQT-n_POQQTfDLywDEdQQ.png"
+        },
+        {
+            "id": 10,
+            "titulo": "Next JS Documentation",
+            "descripcion": "Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.",
+            "tipo": "Repositorio",
+            "enlace": "https://github.com/vercel/next.js",
+            "imagen": "https://camo.githubusercontent.com/9771a2d4a7366d3c6d4793e17104eba9e88f0aec82f7165bfe6871455c26cb2c/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67"
+        },
+        {
+            "id": 11,
+            "titulo": "Consumir API REST con Retrofit (Segunda Parte)",
+            "descripcion": "En la presente guía se desarrollará una aplicación que hace uso de los 4 verbos para permitir hacer un CRUD. ",
+            "tipo": "Tutorial",
+            "enlace": "",
+            "imagen": ""
+        },
+        {
+            "id": 12,
+            "titulo": "",
+            "descripcion": "",
+            "tipo": "",
+            "enlace": "",
+            "imagen": ""
+        },
+        {
+            "id": 13,
+            "titulo": "",
+            "descripcion": "",
+            "tipo": "",
+            "enlace": "",
+            "imagen": ""
+        },
+        {
+            "id": 14,
+            "titulo": "",
+            "descripcion": "",
+            "tipo": "",
+            "enlace": "",
+            "imagen": ""
+        },
+        {
+            "id": 15,
+            "titulo": "",
+            "descripcion": "",
+            "tipo": "",
+            "enlace": "",
+            "imagen": ""
+        },
+        {
+            "id": 16,
+            "titulo": "",
+            "descripcion": "",
+            "tipo": "",
+            "enlace": "",
+            "imagen": ""
+        }
+    ]
+}
