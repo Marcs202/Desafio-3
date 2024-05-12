@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Recursos Estudio</string>
+    <!--->Activity principal</-->
+    <string name="titulo_principal">Recursos de estudio</string>
+    <!--->single view recursos</-->
+    <string name="titulo_recurso">Titulo</string>
+    <string name="tipo_recurso">Tipo de recurso</string>
+    <string name="id_recurso">ID</string>
+    <!--->View info recurso</-->
+    <string name="descripcion">Descripcion</string>
+    <string name="enlace">Enlace</string>
+
+
+</resources>
