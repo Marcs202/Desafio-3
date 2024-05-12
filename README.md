@@ -1,8 +1,9 @@
-<h1>Alumnos</h1> 
+<h3>Alumnos</h3> 
 
-Hernández Sorto, Marcos de Jesús	HS202152
+Hernández Sorto, Marcos de Jesús	HS202152<br/>
 Méndez Hernández, Byron Antonio 	MH192214
 
-Repositorio: Marcs202/Desafio-3: Aplicacion con kotlin y java, conectada a realtime database (github.com)
+<h3>Recursos</h3> 
+Documento: https://drive.google.com/file/d/1zUDYF0fi0nm39SXNYTjFXA7zXFGp9rbA/view?usp=sharing<br/>
 Video: https://drive.google.com/file/d/1bWTNzDubsRcSJI0SfC9yIvKU70hSCOJn/view?usp=sharing
 
